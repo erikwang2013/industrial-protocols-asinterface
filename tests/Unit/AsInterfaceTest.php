@@ -16,7 +16,7 @@ class AsInterfaceTest extends TestCase
     {
         $p = new AsInterfaceProtocol();
         $this->assertSame('as-interface', $p->getName());
-        $this->assertSame('1.0.0', $p->getVersion());
+        $this->assertSame('1.1.1', $p->getVersion());
     }
 
     public function testRequiresBridge(): void
