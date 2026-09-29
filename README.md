@@ -20,7 +20,7 @@ Bihl+Wiedemann BWU3540/BWU3675、Pepperl+Fuchs VBA-4E-G20 AS-i Gateway
 
 ## 兼容框架
 
-Laravel / Webman / Hyperf / ThinkPHP / Yii2 / Plain PHP
+Laravel / Webman / Hyperf / ThinkPHP / Yii2 / Yii3 / Plain PHP
 
 ## 系统要求
 
